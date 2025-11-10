@@ -6,6 +6,7 @@
 
 ## Architecture
 - ✅ [Casey Muratori – The Big OOPs: Anatomy of a Thirty-five-year Mistake – BSC 2025](https://www.youtube.com/watch?v=wo84LFzx5nI)
+- ⬜️ [Handles are the better pointers](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
 - ⬜️ [Jamstack](https://jamstack.org/)
   - **J**avaScript, **A**PIs, and **M**arkup.
   - **Pre-rendered** at build time into static files.
